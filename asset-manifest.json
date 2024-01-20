@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mobile-Cart-App/static/css/main.5f9467e0.css",
+    "main.js": "/Mobile-Cart-App/static/js/main.22780c6e.js",
+    "index.html": "/Mobile-Cart-App/index.html",
+    "main.5f9467e0.css.map": "/Mobile-Cart-App/static/css/main.5f9467e0.css.map",
+    "main.22780c6e.js.map": "/Mobile-Cart-App/static/js/main.22780c6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f9467e0.css",
+    "static/js/main.22780c6e.js"
+  ]
+}
